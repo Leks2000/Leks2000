@@ -1,4 +1,3 @@
-![snake gif](https://github.com/Leks2000/SnakeReadme/blob/output/github-contribution-grid-snake.gif)
 ### Languages and Tools:
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=purple)
