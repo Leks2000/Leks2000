@@ -14,7 +14,7 @@
 
 # My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leks2000&theme=radical)
 
 ![gitartwork](gitartwork.svg)
 
