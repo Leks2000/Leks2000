@@ -13,8 +13,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Alexander_Halle)
 
 # My Stats
-<p align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=Leks2000&theme=synthwave">
-<img src="gitartwork.svg">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leks2000&theme=synthwave)
+![GitHub Stats](gitartwork.svg)
+
 
