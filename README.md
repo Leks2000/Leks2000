@@ -15,6 +15,7 @@
 # My Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leks2000&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leks2000&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![gitartwork](gitartwork.svg)
 
