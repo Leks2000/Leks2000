@@ -5,6 +5,9 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=purple)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=black)
 ![C#](https://img.shields.io/badge/-C_Sharp-white?style=for-the-badge&logo=CSharp&logoColor=purple)
+![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.NET&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css&logoColor=Green)
+![html](https://img.shields.io/badge/-html-blue?style=for-the-badge&logo=html&logoColor=white)
 <img src="https://img.shields.io/badge/-Python-FFA500?style=for-the-badge&logo=python&logoColor=white">
 ### Socials:
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/ara307703ara)
