@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Halle</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="300"/>
-  <img src=![](https://i.gifer.com/7dqh.gif) width="300"/>
 <div id="badges" style="text-align: center;">
 
 ### Languages and Tools:
