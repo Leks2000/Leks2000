@@ -12,7 +12,6 @@
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.NET&logoColor=white)
 ![C#](https://img.shields.io/badge/-C_Sharp-606060?style=for-the-badge&logo=CSharp&logoColor=FFFF99)
 ![html](https://img.shields.io/badge/-Html-E34F26?style=for-the-badge&logo=HTML&logoColor=#E34F26)
-<img src="https://img.shields.io/badge/-Python-FFA500?style=for-the-badge&logo=python&logoColor=white">
 
 ### Socials:
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/ara307703ara)
