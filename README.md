@@ -20,9 +20,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leks2000&theme=synthwave)
 ![GitHub Stats](gitartwork.svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Leks2000)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leks2000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leks2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
