@@ -21,8 +21,8 @@
 
 ### Socials:
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/bruhitsfuckinfunny)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Alexander_Halle)
-  <a href="https://www.youtube.com/@TheXedaBlast?sub_confirmation=1">
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/user_Alexander)
+  <a href="https://www.youtube.com/@d4rkys_brick?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />  
   </a>&nbsp;&nbsp;
 </div>
