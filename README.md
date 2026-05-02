@@ -34,6 +34,11 @@
 
 ---
 
+### Older Portfolio
+
+- **[Unity Developer Portfolio](https://github.com/Leks2000/Portfolio-Halle-Alexander)** — Site about me and my all projects
+- **[Portfolio terminal](https://github.com/Leks2000/portfolio-terminal)** — Unity Developer Terminal
+
 ### 🛠 Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=54C5F8)
