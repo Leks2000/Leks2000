@@ -54,7 +54,7 @@
   <a href="https://t.me/GeneratorDumpling_v4_5">
     <img src="https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
   </a>
-  <a href="https://www.youtube.com/@d4rkys_brick">
+  <a href="https://www.youtube.com/@Trimpoinator">
     <img src="https://img.shields.io/badge/YouTube_(Тримп)-090909?style=for-the-badge&logo=youtube&logoColor=FF0000" />
   </a>
 </p>
