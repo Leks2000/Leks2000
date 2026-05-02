@@ -17,7 +17,7 @@
 | Project | Stack | Status |
 |---|---|---|
 | **Йося** — AI calorie tracker | Flutter · Supabase · Groq | 🔨 In development |
-| **[Promptory](https://github.com/Leks2000/promptory-extension)** — AI prompt manager for Chrome | JS · Supabase | ✅ Live on Chrome Web Store |
+| **[Promptory](https://github.com/Leks2000/Promptory)** — AI prompt manager for Chrome | JS · Supabase | ✅ Live on Chrome Web Store |
 | **[Promtly](https://github.com/Leks2000/Promtly)** — prompt improver & image analyzer | React · TypeScript | 🔓 Open source |
 | **[У.П.Р.А.В.А.](https://www.youtube.com/@%D0%A3.%D0%9F.%D0%A0.%D0%90.%D0%92.%D0%90)** — analog horror YouTube Shorts | Python · ComfyUI · Remotion | 📹 Active |
 
