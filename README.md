@@ -12,6 +12,16 @@
 
 ---
 
+## ⚡ What I do
+
+- build AI-first products
+- automate content workflows
+- create experimental media projects
+- ship MVPs fast
+- combine code + AI + design
+
+---
+
 ### 🚀 Current projects
 
 | Project | Stack | Status |
@@ -21,9 +31,32 @@
 | **[Promtly](https://github.com/Leks2000/Promtly)** — prompt improver & image analyzer | React · TypeScript | 🔓 Open source |
 | **[У.П.Р.А.В.А.](https://www.youtube.com/@%D0%A3.%D0%9F.%D0%A0.%D0%90.%D0%92.%D0%90)** — analog horror YouTube Shorts | Python · ComfyUI · Remotion | 📹 Active |
 
+------
+
+## 📈 Shipped
+
+- 3 production products launched solo
+- Chrome Extension published in Web Store
+- Flutter app released in RuStore
+- AI automation pipelines in production
+- AI-generated media content published across multiple platforms
+
 ---
 
-### 🎮 Games & older stuff
+## 🤖 AI & Automation
+
+- OpenAI / Claude / Groq integrations
+- AI workflow orchestration
+- Prompt engineering
+- Content automation pipelines
+- ComfyUI workflows
+- AI-assisted production systems
+- n8n automations
+- webhook & API integrations
+
+---
+
+## 🕹 Previous Projects
 
 - **[Wolf Runner](https://github.com/Leks2000/Wolf_Runner)** — endless runner, Unity
 - **[Galactic SunSet 2142](https://github.com/Leks2000/Galactic-SunSet-2142)** — 2D shooter, Unity
@@ -34,12 +67,14 @@
 
 ---
 
-### Older Portfolio
+## 🗂 Older Portfolio
 
-- **[Unity Developer Portfolio](https://github.com/Leks2000/Portfolio-Halle-Alexander)** — Site about me and my all projects
-- **[Portfolio terminal](https://github.com/Leks2000/portfolio-terminal)** — Unity Developer Terminal
+- **[Unity Developer Portfolio](https://github.com/Leks2000/Portfolio-Halle-Alexander)** — portfolio website with all projects
+- **[Portfolio Terminal](https://github.com/Leks2000/portfolio-terminal)** — terminal-style portfolio
 
-### 🛠 Stack
+---
+
+## 🛠 Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=54C5F8)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -50,20 +85,27 @@
 
 ---
 
-### 📡 Find me
+## 📡 Find me
 
 <p>
   <a href="https://x.com/xedanler17151">
     <img src="https://img.shields.io/badge/X-090909?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+
   <a href="https://t.me/GeneratorDumpling_v4_5">
     <img src="https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
   </a>
+  <a href="https://www.linkedin.com/in/alexander-halle/">
+    <img src="https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <!--
   <a href="https://www.youtube.com/@Trimpoinator">
     <img src="https://img.shields.io/badge/YouTube_(Тримп)-090909?style=for-the-badge&logo=youtube&logoColor=FF0000" />
   </a>
+  -->
+
 </p>
 
 ---
 
-![GitHub Stats](gitartwork.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leks2000&layout=compact&theme=tokyonight)
