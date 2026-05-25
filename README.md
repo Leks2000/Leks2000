@@ -26,6 +26,7 @@
 
 | Project | Stack | Status |
 |---|---|---|
+| **[Vincere Incorporated](https://www.vincere.kz/)** ([RU mirror](https://vincere-incorp-eosin.vercel.app/)) — corporate logistics website built from scratch | Next.js · Vercel · Brevo | ✅ Delivered |
 | **[Йося](https://www.rustore.ru/catalog/app/ru.puhlyash.yosa)** — AI nutrition tracker with voice input & AI analysis | Flutter · Supabase · Groq | 📱 Live in RuStore |
 | **[Promptory](https://github.com/Leks2000/Promptory)** — AI prompt manager for Chrome | JS · Supabase | ✅ Live on Chrome Web Store |
 | **[Promtly](https://github.com/Leks2000/Promtly)** — prompt improver & image analyzer | React · TypeScript | 🔓 Open source |
@@ -36,6 +37,7 @@
 ## 📈 Shipped
 
 - 3 production products launched solo
+- Designed & delivered a production B2B website solo in 3 weeks
 - AI-powered Flutter app released in RuStore
 - Chrome Extension published in Web Store
 - Flutter app released in RuStore
