@@ -2,9 +2,9 @@
 
 # hey, I'm Alexander 👾
 
-**indie dev · AI automation · content creator**
+**AI automation engineer · indie hacker · content creator**
 
-*building things solo from Saint Petersburg*
+*building AI products & automation systems solo*
 
 <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="200"/>
 
@@ -39,8 +39,7 @@
 - 3 production products launched solo
 - Designed & delivered a production B2B website solo in 3 weeks
 - AI-powered Flutter app released in RuStore
-- Chrome Extension published in Web Store
-- Flutter app released in RuStore
+- Chrome Extension published in Chrome Web Store
 - AI automation pipelines in production
 - AI-generated media content published across multiple platforms
 
